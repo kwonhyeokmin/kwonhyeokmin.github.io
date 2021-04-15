@@ -1,5 +1,3 @@
 main:
-  - title: "알고리즘"
-    url: /algorithm/백준-1149번/
-  - title: "컴퓨터비전"
-    url: /
+  - title: "Categories"
+    url: /categories/
