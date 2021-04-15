@@ -1,0 +1,11 @@
+Kwon Hyeokmin:
+  name        : "Kwon Hyeokmin"
+  bio         : "관절인식에 관심이 많은 컴퓨터비전 연구원입니다"
+  avatar      : "/assets/images/profile.jpg"
+  links:
+    - label: "hykwon8952@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hykwon8952@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://instagram.com/hyukmin_kwon92"
