@@ -230,4 +230,4 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "kwon"
+    shortname: "https-kwonhyeokmin-github-io"
