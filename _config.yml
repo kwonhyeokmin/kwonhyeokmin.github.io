@@ -230,4 +230,4 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "잣나무가지"
+    shortname: "kwon"
